@@ -28,9 +28,9 @@ app.get('/', function(request, response) {
     response.render('index', requiredInfo);
 });
 
-app.get('/resume', function(request, response) {
-    response.render('resume', requiredInfo);
-});
+// app.get('/resume', function(request, response){
+//     response.render('resume', requiredInfo);
+// });
 
 app.get('/avatar', function(request, response) {
     response.redirect(requiredInfo.avatar);

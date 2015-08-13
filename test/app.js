@@ -13,13 +13,13 @@ describe('GET /', function() {
     });
 });
 
-describe('GET /resume', function() {
-    it('should return 200 OK', function(done) {
-        request(app)
-            .get('/resume')
-            .expect(200, done);
-    });
-});
+// describe('GET /resume', function() {
+//     it('should return 200 OK', function(done) {
+//         request(app)
+//             .get('/resume')
+//             .expect(200, done);
+//     });
+// });
 
 describe('GET /avatar', function() {
     it('should return 302 REDIRECT', function(done) {

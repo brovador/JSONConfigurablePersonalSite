@@ -25,17 +25,26 @@
 		<div id="wrapper">
 			<header id="header">
 				<div class="avatar"></div>
+				<span>{title}</span>
 				<p>{description}</p>
 			</header>
 			<ul class="icons">
 				{#icons}
-					<li><a href="{link}" class="icon icon-{icon}"></a></li>
+					<li><a href="{link}" target="blank" class="icon icon-{icon}"></a></li>
 				{/icons}
 			</ul>
 			<hr />
+			<h2>Work</h2>
+			<ul class="apps">
+				{#apps}
+					<li><a href="{link}" target="blank" class="icon"><img src="{icon}"/></a></li>
+				{/apps}
+			</ul>
+			<hr />
+			<h2>Projects</h2>
 			<ul class="links">
 				{#projects}
-					<li><a href="{link}">{title}</a></li>
+					<li><a href="{link}" target="blank">{title}</a></li>
 				{/projects}
 			</ul>
 		</div>
