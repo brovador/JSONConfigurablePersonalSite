@@ -549,6 +549,7 @@ body.landing #wrapper header span {
     font-size: 2.3em;
     display: block;
     margin: 0.5em 0 0;
+    text-transform: capitalize;
 }
 
 body.landing #wrapper header p {
@@ -558,6 +559,7 @@ body.landing #wrapper header p {
     margin: 0.5em 0 2em;
     position: relative;
     top: 0;
+    opacity: 0.8;
 }
 
 
