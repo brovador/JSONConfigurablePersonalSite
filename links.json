@@ -1,7 +1,16 @@
 {
-  "corgi": "http://lmgtfy.com/?q=corgi",
-  "dogecointicker": "https://play.google.com/store/apps/details?id=christophior.dogecointicker.app",
-  "github": "http://github.com/christophior",
-  "repo": "https://github.com/christophior/JSONConfigurablePersonalSite",
-  "twitter": "http://www.twitter.com"
+  "resume" : "http://bit.ly/jesusb-resume",
+  "github": "http://github.com/brovador",
+  "twitter": "http://www.twitter.com/brovador",
+  "linkedin" : "http://www.linkedin.com/in/jesusbartus",
+  "shutdown-my-mac" : "http://brovador.github.io/ShutDownMyMac-OSX/",
+  "nesnake" : "https://github.com/brovador/NESnake",
+  "gamejamthropy" : "http://gamejolt.com/games/gamejamthropy/36170",
+  "dance-dance-with-wolves" : "http://gamejolt.com/games/dance-dance-with-wolves/55409",
+  "maleficent-free-fall" : "https://itunes.apple.com/us/app/maleficent-free-fall/id839618264?mt=8",
+  "frozen-free-fall" : "https://itunes.apple.com/es/app/frozen-free-fall/id692412579?mt=8",
+  "colormania" : "https://itunes.apple.com/es/app/colormania-adivina-los-colores/id651453076?mt=8",
+  "my-movie-maker" : "https://itunes.apple.com/es/app/my-movie-maker/id633888737?mt=8",
+  "disney-storytime" : "https://itunes.apple.com/us/app/disney-storytime/id597251953?mt=8",
+  "playtales" : "https://itunes.apple.com/es/app/playtales-gold!-kids-books/id533771363?mt=8"
 }
