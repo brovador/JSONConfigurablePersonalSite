@@ -18,6 +18,7 @@ body.landing:before {
 body.landing #wrapper {
     width: 100%;
     padding: 3em 2em;
+    margin-top: 0px;
 }
 
 body.landing #wrapper header h1 {
