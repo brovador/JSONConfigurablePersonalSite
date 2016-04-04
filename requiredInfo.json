@@ -1,10 +1,10 @@
 {
-  "siteTitle": "Jesús Bartús | Mobile Software Engineer",
+  "siteTitle": "Jesús Bartús | Senior Mobile Software Engineer",
   "siteDescription": "Jesús Bartús personal site",
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
   "title" : "Jesús Bartús",
-  "description": "Mobile Software Engineer at Genera Games",
+  "description": "Project Manager | Senior Mobile Software Engineer",
   "icons": [
     {"icon": "page", "link": "/resume"},
     {"icon": "social-linkedin", "link": "/linkedin"},
@@ -14,34 +14,33 @@
   ],
   "apps" : [
     {
-      "icon" : "http://a1.mzstatic.com/eu/r30/Purple69/v4/0a/7b/1d/0a7b1d0c-5ad3-6f3e-d23c-66f1c9c49e39/icon60x60.png",
+      "icon" : "http://a5.mzstatic.com/us/r30/Purple49/v4/20/0f/af/200faf19-97c7-c4f4-b8a5-e39fc0cf9522/icon60x60.png",
       "link" : "/frozen-free-fall"
     },
     {
-      "icon" : "http://a1.mzstatic.com/us/r30/Purple1/v4/89/b5/20/89b5200d-0c72-fa6f-9060-ff68d70267ae/icon60x60.png", 
+      "icon" : "http://a1.mzstatic.com/us/r30/Purple1/v4/89/b5/20/89b5200d-0c72-fa6f-9060-ff68d70267ae/icon60x60.png",
       "link" : "/maleficent-free-fall"
     },
     {
-      "icon" : "http://a3.mzstatic.com/eu/r30/Purple1/v4/2c/66/7f/2c667f42-22ca-d1f2-0dd3-5c38c97f0cd9/icon60x60.png", 
+      "icon" : "http://a3.mzstatic.com/eu/r30/Purple1/v4/2c/66/7f/2c667f42-22ca-d1f2-0dd3-5c38c97f0cd9/icon60x60.png",
       "link" : "/playtales"
     },
     {
-      "icon" : "http://a2.mzstatic.com/us/r30/Purple/v4/fd/10/87/fd10875b-3b3a-8c36-d8e8-b774c404786b/icon60x60.png", 
+      "icon" : "http://a2.mzstatic.com/us/r30/Purple/v4/fd/10/87/fd10875b-3b3a-8c36-d8e8-b774c404786b/icon60x60.png",
       "link" : "/disney-storytime"
     },
     {
-      "icon" : "http://a1.mzstatic.com/eu/r30/Purple7/v4/d5/c5/ee/d5c5eed3-e7c9-c03c-9cdf-dcda4c39fa05/icon60x60.jpeg", 
+      "icon" : "http://a1.mzstatic.com/eu/r30/Purple7/v4/d5/c5/ee/d5c5eed3-e7c9-c03c-9cdf-dcda4c39fa05/icon60x60.jpeg",
       "link" : "/colormania"
-    },
-    {
-      "icon" : "http://a1.mzstatic.com/eu/r30/Purple2/v4/2c/eb/10/2ceb10f8-ec72-99d1-a628-cfce722975eb/icon60x60.jpeg",
-      "link" : "/my-movie-maker"
     }
   ],
   "projects": [
+    {"title":"SubsPlease", "link":"/subsplease"},
     {"title":"ShutdownMyMac", "link":"/shutdown-my-mac"},
     {"title":"NESNake", "link":"/nesnake"},
-    {"title":"Gamejamthropy", "link":"/gamejamthropy"},
-    {"title":"Dance Dance with wolves", "link":"/dance-dance-with-wolves"}
+    {"title":"ERR_LOADING_TITLE", "link":"/err-loading-title"},
+    {"title":"The prophecy of Cocomulo", "link":"/prophecy-of-cocomulo"},
+    {"title":"Dance Dance with wolves", "link":"/dance-dance-with-wolves"},
+    {"title":"Gamejamthropy", "link":"/gamejamthropy"}
   ]
 }
