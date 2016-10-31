@@ -37,7 +37,7 @@
   "projects": [
     {"title":"SubsPlease", "link":"/subsplease"},
     {"title":"ShutdownMyMac", "link":"/shutdown-my-mac"},
-    {"title":"NESNake", "link":"/nesnake"},
+    {"title":"NESnake", "link":"/nesnake"},
     {"title":"GBSnake", "link":"/gbsnake"},
     {"title":"Mission Failed", "link":"/mission-failed"},
     {"title":"Dancing Tomato", "link":"/dancing-tomato"},
