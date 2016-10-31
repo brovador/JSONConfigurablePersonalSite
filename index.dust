@@ -41,7 +41,7 @@
 				{/apps}
 			</ul>
 			<hr />
-			<h2>Projects</h2>
+			<h2>Projects & Games</h2>
 			<ul class="links">
 				{#projects}
 					<li><a href="{link}" target="blank">{title}</a></li>
