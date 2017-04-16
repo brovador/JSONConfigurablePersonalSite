@@ -46,8 +46,17 @@ Icons and icon names are consistent with the [Foundation Icon Font](http://zurb.
 
 Links for our icons can either be relative links based on entries that you have added to your **links.json** file (*like  the resume/linkedin/email icon*) or absolute links (*like the Github icon*).
 
+#### apps
+Used for professional work. The use is equals to icons, being its format:
+```
+"apps": [
+    {"icon": "app-icon-path-1", "link": "/app-link-1"},
+    {"icon": "app-icon-path-2", "link": "/app-link-2"}
+  ]
+```
+
 #### projects
-Projects are similar to icons except that they have different attributes, the following is an example of projects:
+Used for personal projects. Projects are similar to icons except that they have different attributes, the following is an example of projects:
 ```
 "projects": [
     {"title":"Dogecoin Ticker", "link":"/dogecointicker"}
@@ -57,6 +66,14 @@ Projects require a title and a link.
 
 Project titles are what will be shown on your website. Links just like icons can be either relative or absolute.
 
+
+#### games
+Used for personal games. Sintax is equals to projects.
+```
+"games": [
+    {"title":"Personal game", "link":"/personal-game-url"}
+  ]
+```
 
 ### **links.json**
 This file is where you will specify links that will redirect when you go to certain paths in your site. By default the / path is your home page which will show your home page which will be populated with the info you have provided in your **requiredInfo.json** file. 
