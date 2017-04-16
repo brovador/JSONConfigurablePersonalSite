@@ -1,10 +1,10 @@
 {
-  "siteTitle": "Jesús Bartús | Senior Mobile Software Engineer",
+  "siteTitle": "Jesús Bartús | Team Lead - iOS / Unity developer",
   "siteDescription": "Jesús Bartús personal site",
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
   "title" : "Jesús Bartús",
-  "description": "Project Manager | Senior Mobile Software Engineer",
+  "description": "Team Lead - iOS / Unity developer",
   "icons": [
     {"icon": "page", "link": "/resume"},
     {"icon": "social-linkedin", "link": "/linkedin"},
@@ -36,9 +36,12 @@
   ],
   "projects": [
     {"title":"SubsPlease", "link":"/subsplease"},
-    {"title":"ShutdownMyMac", "link":"/shutdown-my-mac"},
+    {"title":"ShutdownMyMac", "link":"/shutdown-my-mac"}
+  ],
+  "games": [
     {"title":"NESnake", "link":"/nesnake"},
     {"title":"GBSnake", "link":"/gbsnake"},
+    {"title":"James Beans", "link":"/james-beans"},
     {"title":"Mission Failed", "link":"/mission-failed"},
     {"title":"Dancing Tomato", "link":"/dancing-tomato"},
     {"title":"ERR_LOADING_TITLE", "link":"/err-loading-title"},

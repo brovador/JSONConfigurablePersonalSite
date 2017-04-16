@@ -34,18 +34,25 @@
 				{/icons}
 			</ul>
 			<hr />
-			<h2>Work</h2>
+			<h2>Professional work</h2>
 			<ul class="apps">
 				{#apps}
 					<li><a href="{link}" target="blank" class="icon"><img src="{icon}"/></a></li>
 				{/apps}
 			</ul>
 			<hr />
-			<h2>Projects & Games</h2>
+			<h2>Presonal projects</h2>
 			<ul class="links">
 				{#projects}
 					<li><a href="{link}" target="blank">{title}</a></li>
 				{/projects}
+			</ul>
+			<hr />
+			<h2>Games & Jams</h2>
+			<ul class="links">
+				{#games}
+					<li><a href="{link}" target="blank">{title}</a></li>
+				{/games}
 			</ul>
 		</div>
 		<footer id="footer"></footer>
