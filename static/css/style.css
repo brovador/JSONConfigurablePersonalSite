@@ -493,6 +493,7 @@ body.landing #bg {
     position: fixed;
     top: -10px;
     width: calc(100% + 20px);
+    opacity: 0.3;
 }
 
 body.landing.is-touch {
