@@ -514,7 +514,7 @@ body.landing #wrapper {
     width: 35em;
     z-index: 2;
     margin-top: 100px;
-    margin-bottom: 1em;
+    margin-bottom: 4em;
 }
 
 body.landing #wrapper header h1 {
@@ -600,18 +600,18 @@ body.landing #wrapper .apps {
 
 
 body.landing #wrapper .apps img {
-    width: 40px;
-    height: 40px;
+    width: 96px;
+    height: 96px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 body.landing #wrapper a {
-    opacity: 0.5;
+    opacity: 1;
 }
 
 body.landing #wrapper a:hover {
-    opacity: 1;
+    opacity: 0.8;
 }
 
 

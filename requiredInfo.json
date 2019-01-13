@@ -1,10 +1,10 @@
 {
-  "siteTitle": "Jesús Bartús | Team Lead - iOS / Unity developer",
+  "siteTitle": "Jesús Bartús | Product manager",
   "siteDescription": "Jesús Bartús personal site",
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
   "title" : "Jesús Bartús",
-  "description": "Team Lead - iOS / Unity developer",
+  "description": "Product manager & Producer",
   "icons": [
     {"icon": "page", "link": "/resume"},
     {"icon": "social-linkedin", "link": "/linkedin"},
@@ -14,27 +14,20 @@
   ],
   "apps" : [
     {
-      "icon" : "http://a5.mzstatic.com/us/r30/Purple49/v4/20/0f/af/200faf19-97c7-c4f4-b8a5-e39fc0cf9522/icon60x60.png",
+      "icon" : "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/fa/48/a0/fa48a000-b61f-4f01-fdf0-bfb97a2a36d5/AppIcon-1x_U007emarketing-85-220-8.png/230x0w.jpg",
       "link" : "/frozen-free-fall"
     },
     {
-      "icon" : "http://a1.mzstatic.com/us/r30/Purple1/v4/89/b5/20/89b5200d-0c72-fa6f-9060-ff68d70267ae/icon60x60.png",
+      "icon" : "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/44/c2/f5/44c2f5f3-f695-33f6-e433-ce955ab2fd58/AppIcon-1x_U007emarketing-85-220-5.png/230x0w.jpg",
       "link" : "/maleficent-free-fall"
     },
     {
-      "icon" : "http://a3.mzstatic.com/eu/r30/Purple1/v4/2c/66/7f/2c667f42-22ca-d1f2-0dd3-5c38c97f0cd9/icon60x60.png",
+      "icon" : "https://is4-ssl.mzstatic.com/image/thumb/Purple1/v4/37/01/36/370136be-c348-c132-861b-d84eb8df6388/mzl.xblsdywv.png/230x0w.png",
       "link" : "/playtales"
-    },
-    {
-      "icon" : "http://a2.mzstatic.com/us/r30/Purple/v4/fd/10/87/fd10875b-3b3a-8c36-d8e8-b774c404786b/icon60x60.png",
-      "link" : "/disney-storytime"
-    },
-    {
-      "icon" : "http://a1.mzstatic.com/eu/r30/Purple7/v4/d5/c5/ee/d5c5eed3-e7c9-c03c-9cdf-dcda4c39fa05/icon60x60.jpeg",
-      "link" : "/colormania"
     }
   ],
   "projects": [
+    {"title":"Unity GB emulator", "link":"/unity-gb-emu"},
     {"title":"SubsPlease", "link":"/subsplease"},
     {"title":"ShutdownMyMac", "link":"/shutdown-my-mac"}
   ],
