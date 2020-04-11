@@ -14,7 +14,11 @@
   ],
   "apps" : [
     {
-      "icon" : "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/fa/48/a0/fa48a000-b61f-4f01-fdf0-bfb97a2a36d5/AppIcon-1x_U007emarketing-85-220-8.png/230x0w.jpg",
+      "icon" : "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/46/e7/6f/46e76f04-0ecb-c68a-c068-7a4b74f26b62/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+      "link" : "/tuscany-villa"
+    },
+    {
+      "icon" : "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/27/71/92/2771924a-5160-5418-3ee1-ce29af6ff8a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/230x0w.png",
       "link" : "/frozen-free-fall"
     },
     {
@@ -28,8 +32,7 @@
   ],
   "projects": [
     {"title":"Unity GB emulator", "link":"/unity-gb-emu"},
-    {"title":"SubsPlease", "link":"/subsplease"},
-    {"title":"ShutdownMyMac", "link":"/shutdown-my-mac"}
+    {"title":"SubsPlease", "link":"/subsplease"}
   ],
   "games": [
     {"title":"NESnake", "link":"/nesnake"},
